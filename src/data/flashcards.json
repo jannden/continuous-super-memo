@@ -1,0 +1,225 @@
+[
+  { "question": "How are you?", "answer": "Come stai?" },
+  { "question": "Nice to meet you", "answer": "Piacere di conoscerti" },
+  { "question": "Can you help me?", "answer": "Mi puoi aiutare?" },
+  {
+    "question": "Where is the nearest toilet?",
+    "answer": "Dove è il bagno piú vicino?"
+  },
+  { "question": "I would like a beer", "answer": "Vorrei una birra" },
+  { "question": "How much does it cost?", "answer": "Quanto costa?" },
+  {
+    "question": "Can you please take a picture?",
+    "answer": "Puoi fare una foto per favore?"
+  },
+  { "question": "I am sorry", "answer": "Mi dispiace" },
+  { "question": "Do you have a lighter?", "answer": "Hai un accendino?" },
+  { "question": "Thank you", "answer": "Grazie" },
+  { "question": "You are welcome", "answer": "Prego" },
+  { "question": "What time is it?", "answer": "Che ora è?" },
+  {
+    "question": "What's your phone number?",
+    "answer": "Qual'è il tuo numero di telefono?"
+  },
+  {
+    "question": "Please speak slower",
+    "answer": "Per favore parla piú lentamente"
+  },
+  { "question": "I am hungry", "answer": "Ho fame" },
+  { "question": "Good luck", "answer": "Buona fortuna" },
+  {
+    "question": "I need to go on the internet",
+    "answer": "Ho bisogno d'usare l'internet"
+  },
+  {
+    "question": "Where can I withdraw money?",
+    "answer": "Dove posso ritirare soldi?"
+  },
+  {
+    "question": "Where can I buy tickets?",
+    "answer": "Dove posso comprare i biglietti?"
+  },
+  { "question": "Every day", "answer": "Tutti i giorni" },
+  { "question": "How old are you?", "answer": "Quanti anni hai?" },
+  { "question": "After you", "answer": "Dopo di te" },
+  { "question": "A little", "answer": "Un po'" },
+  { "question": "Follow me", "answer": "Seguimi" },
+  { "question": "Are you ready?", "answer": "Sei pronto?" },
+  {
+    "question": "How long does it take?",
+    "answer": "Quanto tempo ci vuole?"
+  },
+  { "question": "I am thirsty", "answer": "Ho sete" },
+  { "question": "Do you drink alcohol?", "answer": "Bevi alcohol?" },
+  { "question": "I would like ice tea", "answer": "Vorrei un tè freddo" },
+  {
+    "question": "What would you like to eat?",
+    "answer": "Cosa vuoi mangiare?"
+  },
+  { "question": "I would like hot tea", "answer": "Vorrei un tè (caldo)" },
+  {
+    "question": "Where can I buy traditional food?",
+    "answer": "Dove posso comprare cibo tradizionale?"
+  },
+  { "question": "What do you recommend?", "answer": "Cosa raccomandi?" },
+  { "question": "Two tickets please", "answer": "Due biglietti, per favore" },
+  { "question": "What do you study?", "answer": "Cosa studi?" },
+  { "question": "I don't have cash", "answer": "Non ho soldi" },
+  { "question": "Too expensive", "answer": "Troppo caro" },
+  { "question": "It's okay", "answer": "Va bene" },
+  { "question": "May I help you?", "answer": "Posso aiutarti?" },
+  {
+    "question": "I would like some coffee",
+    "answer": "Vorrei un po' di caffè"
+  },
+  { "question": "Is there a cafe nearby?", "answer": "C'è un caffè vicino?" },
+  { "question": "Please sit down", "answer": "Prego, siediti" },
+  { "question": "What does it mean?", "answer": "Cosa significa?" },
+  { "question": "Do you smoke?", "answer": "Fumi?" },
+  { "question": "A lot", "answer": "Molto" },
+  { "question": "Are you hungry?", "answer": "Hai fame?" },
+  { "question": "I am full", "answer": "Sono pieno" },
+  { "question": "How do you say this?", "answer": "Come si dice questo?" },
+  { "question": "Room with a bathroom", "answer": "Stanza con bagno" },
+  { "question": "What are you doing?", "answer": "Cosa stai facendo?" },
+  { "question": "Not yet", "answer": "Non ancora" },
+  { "question": "I like you", "answer": "Mi piaci" },
+  { "question": "I miss you", "answer": "Mi manchi" },
+  { "question": "I need a doctor", "answer": "Ho bisogno di un dottore" },
+  { "question": "Good luck", "answer": "Buona fortuna" },
+  { "question": "Get well soon", "answer": "Guarisci presto" },
+  { "question": "How to get there?", "answer": "Come ci arrivo?" },
+  { "question": "Go straight ahead", "answer": "Vai dritto" },
+  { "question": "How far is it?", "answer": "Quanto è lontano" },
+  { "question": "At the traffic lights", "answer": "Al semaforo" },
+  { "question": "Turn right", "answer": "gira a destra" },
+  { "question": "Turn left", "answer": "gira a sinistra" },
+  { "question": "Do you have a map?", "answer": "Hai una mappa?" },
+  { "question": "I'm fine, thanks", "answer": "Sto bene, grazie" },
+  {
+    "question": "Do you want do go with us?",
+    "answer": "Vuoi accompagnarci?"
+  },
+  { "question": "Where is it?", "answer": "Dov'è?" },
+  { "question": "I like that", "answer": "Questo mi piace" },
+  { "question": "The weather is good", "answer": "Il tempo è bello" },
+  { "question": "The weather is bad", "answer": "Il tempo è brutto" },
+  { "question": "It is raining", "answer": "Piove" },
+  { "question": "It is hot", "answer": "Fa caldo" },
+  { "question": "Who is it?", "answer": "Chi è?" },
+  { "question": "It is cold", "answer": "Fa freddo" },
+  { "question": "Happy birthday", "answer": "Buon compleanno" },
+  { "question": "Where are you from?", "answer": "Di dove sei?" },
+  { "question": "This is my brother", "answer": "Questo è  mio fratello" },
+  { "question": "Can I speak to...?", "answer": "Posso parlare con...?" },
+  {
+    "question": "I'd like to go to the supermarket",
+    "answer": "Vorrei andare al supermercato"
+  },
+  { "question": "I don't want to go there", "answer": "Non voglio andarci" },
+  { "question": "You are kidding!", "answer": "Stai scherzando!" },
+  { "question": "Where should I get off?", "answer": "Dove devo scendere?" },
+  { "question": "Take a taxi", "answer": "Prendi un taxi" },
+  { "question": "I am lost", "answer": "Mi sono perso" },
+  { "question": "Where am I?", "answer": "Dove sono?" },
+  { "question": "I don't know", "answer": "Non lo so" },
+  { "question": "I have to go", "answer": "Devo andare" },
+  { "question": "Wait a moment", "answer": "Aspetta un attimo" },
+  {
+    "question": "In front of the building",
+    "answer": "Davanti all'edificio"
+  },
+  { "question": "What did you say?", "answer": "Cosa hai detto?" },
+  { "question": "What is this?", "answer": "Cos'è questo?" },
+  {
+    "question": "Can you give me a discount?",
+    "answer": "Puoi farmi uno sconto?"
+  },
+  { "question": "I would like to...", "answer": "Mi piacerebbe..." },
+  { "question": "How do you know?", "answer": "Come lo sai?" },
+  { "question": "Are you finished?", "answer": "Hai finito?" },
+  { "question": "Do not disturb", "answer": "Non disturbare" },
+  { "question": "I am tired", "answer": "Sono stanco" },
+  { "question": "Are you thirsty?", "answer": "Hai sete?" },
+  { "question": "I'm fine, thanks", "answer": "Sto bene, grazie" },
+  { "question": "I'm leaving today", "answer": "Parto oggi" },
+  { "question": "I don't understand", "answer": "Non capisco" },
+  { "question": "word_en", "answer": "word_it" },
+  { "question": "Best regards", "answer": "Cordiali saluti" },
+  { "question": "What are you doing?", "answer": "Cosa stai facendo?" },
+  { "question": "Are you okay?", "answer": "Stai bene?" },
+  { "question": "I agree", "answer": "Daccordo" },
+  { "question": "I don't agree", "answer": "Non sono daccordo" },
+  { "question": "I am looking for a job", "answer": "Sto cercando lavoro" },
+  { "question": "What's your name?", "answer": "Come ti chiami?" },
+  { "question": "Where do you work?", "answer": "Dove lavori?" },
+  { "question": "Where do you live?", "answer": "Dove abiti?" },
+  { "question": "What do you study?", "answer": "Cosa studi?" },
+  { "question": "How is the weather?", "answer": "Che tempo fa?" },
+  { "question": "Do the homework", "answer": "Fai i compiti" },
+  { "question": "Eat slowly", "answer": "Mangia piano" },
+  { "question": "Forget it", "answer": "Dimenticalo" },
+  {
+    "question": "Close the door please",
+    "answer": "Chiudi la porta per favore"
+  },
+  {
+    "question": "May I open the window?",
+    "answer": "Posso aprire la finestra?"
+  },
+  { "question": "It's a waste of time", "answer": "È una perdita di tempo" },
+  { "question": "How was the movie?", "answer": "Com'era il film?" },
+  { "question": "Thanks for asking", "answer": "Grazie per chiedere" },
+  { "question": "That's a good idea", "answer": "È una buona idea" },
+  {
+    "question": "Do you want do go with us?",
+    "answer": "Vuoi accompagnarci?"
+  },
+  { "question": "I will pick you up", "answer": "Ti vengo a prendere" },
+  { "question": "That's a nice dog", "answer": "Questo è un buon cane" },
+  {
+    "question": "Can you pass me the salt, please?",
+    "answer": "Puoi passarmi il sale per favore?"
+  },
+  { "question": "Do you have a car?", "answer": "Hai una macchina?" },
+  { "question": "It was a joke", "answer": "Era uno scherzo" },
+  {
+    "question": "When do you have holidays?",
+    "answer": "Quando hai vacanze?"
+  },
+  {
+    "question": "How many times a week?",
+    "answer": "Quante volte alla settimana?"
+  },
+  { "question": "I pay for it", "answer": "Lo pago io" },
+  { "question": "Thanks for inviting me", "answer": "Grazie per invitarmi" },
+  {
+    "question": "Turn off the lights please",
+    "answer": "Spegna la luce per favore"
+  },
+  { "question": "Be careful", "answer": "Fai attenzione" },
+  {
+    "question": "I will take care of it",
+    "answer": "Mi prenderó cura di questo"
+  },
+  {
+    "question": "Let me introduce my friend",
+    "answer": "Ti presento a mio amico"
+  },
+  { "question": "How are you?", "answer": "Come stai?" },
+  { "question": "Nice to meet you", "answer": "Piacere di conoscerti" },
+  { "question": "Can you help me?", "answer": "Mi puoi aiutare?" },
+  {
+    "question": "Where is the nearest toilet?",
+    "answer": "Dov'è il bagno piú vicino?"
+  },
+  { "question": "I would like a beer", "answer": "Vorrei una birra" },
+  { "question": "How much does it cost?", "answer": "Quanto costa?" },
+  {
+    "question": "Can you please take a picture?",
+    "answer": "Puoi fare una foto per favore?"
+  },
+  { "question": "I am sorry", "answer": "Mi dispiace" },
+  { "question": "Do you have a lighter?", "answer": "Hai un accendino?" },
+  { "question": "Thank you", "answer": "Grazie" }
+]

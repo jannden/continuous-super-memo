@@ -1,0 +1,48 @@
+.new {
+  color: rgb(153, 153, 153);
+}
+
+.correct {
+  background-color: #dfffa0;
+}
+
+.incorrect {
+  background-color: #fcbea4;
+  border-bottom: #fd8b5a 2px solid;
+}
+
+@keyframes pulsingPositive {
+  25% {
+    transform: scale(1.8);
+  }
+  50% {
+    transform: scale(0.7);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pulsingNegative {
+  25% {
+    transform: scale(0.1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.heart {
+  display: inline-block;
+  color: rgba(230, 43, 43, 0.7);
+  transform: scale(1);
+}
+.heart-pulsing-positive {
+  animation: pulsingPositive 1s;
+}
+.heart-pulsing-negative {
+  animation: pulsingNegative 1s;
+}
